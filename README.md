@@ -131,6 +131,22 @@ for ( i = 0; i < DTYPES.length; i++ ) {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/ndarray/casting-modes`][@stdlib/ndarray/casting-modes]</span><span class="delimiter">: </span><span class="description">list of ndarray casting modes.</span>
+-   <span class="package-name">[`@stdlib/ndarray/dtypes`][@stdlib/ndarray/dtypes]</span><span class="delimiter">: </span><span class="description">list of ndarray data types.</span>
+-   <span class="package-name">[`@stdlib/ndarray/same-kind-casts`][@stdlib/ndarray/same-kind-casts]</span><span class="delimiter">: </span><span class="description">return a list of ndarray data types to which a provided ndarray data type can be safely cast or cast within the same kind.</span>
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 
@@ -188,7 +204,15 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-safe-casts/main/LICENSE
 
+<!-- <related-links> -->
+
+[@stdlib/ndarray/casting-modes]: https://github.com/stdlib-js/ndarray-casting-modes
+
 [@stdlib/ndarray/dtypes]: https://github.com/stdlib-js/ndarray-dtypes
+
+[@stdlib/ndarray/same-kind-casts]: https://github.com/stdlib-js/ndarray-same-kind-casts
+
+<!-- </related-links> -->
 
 </section>
 
