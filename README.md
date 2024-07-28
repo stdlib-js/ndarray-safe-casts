@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import safeCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-safe-casts@deno/mod.js';
+import safeCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-safe-casts@v0.3.0-deno/mod.js';
 ```
 
 #### safeCasts( \[dtype] )
@@ -106,7 +106,7 @@ var out = safeCasts( 'foo' );
 
 ```javascript
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-dtypes@deno/mod.js';
-import safeCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-safe-casts@deno/mod.js';
+import safeCasts from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-safe-casts@v0.3.0-deno/mod.js';
 
 // Get the list of supported ndarray data types:
 var DTYPES = dtypes();
