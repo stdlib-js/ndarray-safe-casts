@@ -2,6 +2,41 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-04-02)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b2db775`](https://github.com/stdlib-js/stdlib/commit/b2db7759e0779037cea020e7c80ce91740257f46) - **chore:** fix EditorConfig lint error [(#6180)](https://github.com/stdlib-js/stdlib/pull/6180) _(by MANI, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   MANI
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2024-07-28)
