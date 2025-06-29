@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-04)
+## Unreleased (2025-06-29)
+
+<section class="features">
+
+### Features
+
+-   [`d979fb3`](https://github.com/stdlib-js/stdlib/commit/d979fb33794fae5c14e2bbc78a77387ab8a407cb) - add support for `float16`, `complex32`, `int64`, and `uint64` dtypes
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d979fb3`](https://github.com/stdlib-js/stdlib/commit/d979fb33794fae5c14e2bbc78a77387ab8a407cb) - **feat:** add support for `float16`, `complex32`, `int64`, and `uint64` dtypes _(by Athan Reines)_
 -   [`13b7262`](https://github.com/stdlib-js/stdlib/commit/13b726232dfe12efc850f095633e373840f3e02a) - **chore:** fix EditorConfig lint errors [(#6541)](https://github.com/stdlib-js/stdlib/pull/6541) _(by Muhammad Taaha Tariq, Athan Reines)_
 -   [`b2db775`](https://github.com/stdlib-js/stdlib/commit/b2db7759e0779037cea020e7c80ce91740257f46) - **chore:** fix EditorConfig lint error [(#6180)](https://github.com/stdlib-js/stdlib/pull/6180) _(by MANI, Athan Reines)_
 
